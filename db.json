@@ -1,0 +1,42 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "title": "Product 1",
+        "price": 700,
+        "description": "Description 1"
+    },
+    {
+            "id": 2,
+            "title": "Product 2",
+            "price": 1050,
+            "description": "Description 2"
+        },
+        {
+                "id": 3,
+                "title": "Product 3",
+                "price": 2600,
+                "description": "Description 3"
+            }
+    ],
+
+"postcodes":[
+    {
+        "postcode": "E3 4NA",
+        "postcode_inward": "4NA",
+        "postcode_outward": "E3",
+        "post_town": "London",
+        "dependant_locality": "",
+        "double_dependent_locality": "",
+        "throughfare": "Wellington Way",
+        "dependant_thoroughfare": "",
+        "building_number": "",
+        "building_name": "Wellington Buildings",
+        "sub_building_name": "Flat 1",
+        "po_box": "",
+        "department_name": "",
+        "organisation_name": ""
+
+    }
+]
+}
